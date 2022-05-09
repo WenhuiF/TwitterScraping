@@ -10,4 +10,4 @@ Term: Spring 2021
 
 + Report is saved in doc directory for reference
 
-+ Results are saved in data directory that can be accessed directly from the code.
++ Results are saved in output directory that can be accessed directly from the code to cut long training time.
