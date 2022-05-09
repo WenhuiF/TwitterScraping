@@ -1,28 +1,11 @@
-# ADS Project 5: 
+# 5241 Project: 
 
 Term: Spring 2021
 
-+ Team #
-+ Projec title: Lorem ipsum dolor sit amet
-+ Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-	
-**Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
++ Project title: Deep Learning on MINST Dataset
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
++ Project Summary: This project contains two problems of number recognition and number addition. The first problem is solved by three different models including ANN and CNN on the MINST dataset. The final accuracy we obtained is over 99%. The second problem is solved by LeNet5 and a 6-layer CNN, and got over 95% accuracy at last. The second dataset is composed by images containing two digits with the label equals the summation of two numbers. This project is implemented by TensorFlow, Keras. 
 
-```
-proj/
-├── lib/
-├── data/
-├── doc/
-├── figs/
-└── output/
-```
++ Code can be found in the main.ipynb and ran directly.
 
-Please see each subfolder for a README file.
++ Results are saved in data directory that can be accessed directly from the code.
